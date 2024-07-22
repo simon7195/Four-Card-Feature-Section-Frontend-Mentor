@@ -14,8 +14,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://github.com/simon7195/Four-Card-Feature-Section-Frontend-Mentor)
+- Live Site URL: [Live site](https://four-card-feature-section-frontend-mentor-rust.vercel.app/)
 
 ## My process
 
@@ -68,6 +66,5 @@ This is how I made the color lines at the top of each card.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [My personal website](https://simoncapillon.com/)
+- Frontend Mentor - [@simon7195](https://www.frontendmentor.io/profile/simon7195)
